@@ -6,3 +6,5 @@ html[data-theme="light"]{color-scheme:light}
 input:disabled,select:disabled{opacity:.7;cursor:default}
 @media(max-width:1000px){.basic-filters{grid-template-columns:1fr 1fr}.basic-filters label:first-child{grid-column:auto}}
 @media(max-width:640px){nav{gap:7px}.theme-toggle{font-size:12px;padding:9px 8px;min-height:40px}.basic-filters{grid-template-columns:1fr}.basic-filters label{grid-column:1/-1}}
+
+@media(max-width:640px){.top-inner{flex-wrap:wrap}nav{margin-left:auto}}
