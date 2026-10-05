@@ -1,1 +1,1 @@
-{"name":"votosbebeto2026","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test tests/*.test.mjs","preview":"python3 -m http.server 8080 --directory dist"}}
+{"name":"votosbebeto2026","version":"1.1.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","test":"node --test tests/*.test.mjs","dev":"node scripts/serve.mjs public","preview":"node scripts/serve.mjs dist"}}

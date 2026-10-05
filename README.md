@@ -6,7 +6,8 @@ Site estático e responsivo de análise independente da votação de Bebeto (113
 
 - Total estadual: 52.761 votos.
 - 92 municípios e 183 combinações de município e zona eleitoral.
-- Três maiores concentrações estaduais, consulta por município/zona, busca sem acentos, filtros numéricos, condições E/OU, ranking, paginação e links oficiais.
+- Três maiores concentrações estaduais, consulta por município/zona, seleções predefinidas de município/zona e maiores votações, ranking, paginação e links oficiais.
+- Modo claro/escuro com preferência lembrada no navegador.
 - PDF completo e geração local de PDF da consulta. Biblioteca de PDF incluída no projeto, sem CDN ou serviço externo.
 - Compartilhamento da consulta por parâmetros no endereço. Sem rastreamento, contas de visitantes ou banco em servidor.
 
@@ -25,13 +26,32 @@ npm test
 npm run build
 ```
 
-Para abrir localmente, sirva a pasta `dist` por HTTP (não por `file://`). Por exemplo, com Python instalado:
+Para editar/testar, execute `npm run dev` e abra http://localhost:8080. O servidor serve `public`; atualize o navegador após alterar arquivos. Para conferir a versão preparada pelo build, execute `npm run preview`, que serve `dist`. Ambos usam Node.js e funcionam em Windows e Linux, sem Python ou dependências extras. Encerre com Ctrl+C antes de trocar de servidor. Para regenerar o PDF completo após mudar os dados: `node scripts/report.mjs`, seguido de `npm run build`.
 
-```sh
-npm run preview
+## Conexão entre GitHub e computador
+
+Uma pasta baixada por ZIP não tem a conexão Git. Preserve sua cópia atual e clone em outra pasta:
+
+```powershell
+cd C:\_estudos
+git clone https://github.com/rmarino2060-netizen/votosbebeto2026.git
+cd votosbebeto2026
+git remote -v
+npm run dev
 ```
 
-Acesse http://localhost:8080. Para regenerar o PDF completo após mudar os dados: `node scripts/report.mjs`, seguido de `npm run build`.
+O clone configura `origin` e a branch `main` automaticamente. Antes de receber novas alterações, encerre o servidor (Ctrl+C) e execute, dentro dessa pasta:
+
+```powershell
+git status
+git pull --ff-only
+npm test
+npm run dev
+```
+
+Após mudanças remotas, é preciso fazer o pull antes de testar a nova versão. Para testar a saída da publicação: `npm run build` e `npm run preview`. Se o Git avisar sobre alterações locais ou divergência, resolva essas alterações antes de continuar; não use comandos para descartar arquivos automaticamente. O ZIP antigo não é atualizado pelo pull.
+
+Se a Cloudflare já estiver conectada à branch main, alterações enviadas ao remoto podem disparar publicação automática. Nesta fase, revise o site local antes de conectar a hospedagem.
 
 ## Publicação na sua conta Cloudflare Pages
 

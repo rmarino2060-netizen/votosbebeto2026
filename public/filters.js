@@ -1,19 +1,22 @@
-export const normalize = value => String(value ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
-export function filterRows(rows, query, total) {
-  return rows.filter(row => {
-    if(query.search && !normalize(row.municipio).includes(normalize(query.search))) return false;
-    if(query.municipio && row.codigoMunicipio !== query.municipio) return false;
-    if(query.min !== '' && row.votos < Number(query.min)) return false;
-    if(query.max !== '' && row.votos > Number(query.max)) return false;
-    const rules=(query.rules ?? []).filter(rule=>String(rule.value).trim()!=='');
-    const matches=rules.map(rule=>{
-      const value=rule.field==='participacao' ? row.votos/total*100 : row[rule.field];
-      if(rule.op==='contains') return normalize(value).includes(normalize(rule.value));
-      if(rule.op==='eq') return normalize(value)===normalize(rule.value);
-      if(rule.op==='gte') return value!==undefined && Number(value)>=Number(rule.value);
-      if(rule.op==='lte') return value!==undefined && Number(value)<=Number(rule.value);
-      return false;
-    });
-    return query.logic==='or' ? !matches.length || matches.some(Boolean) : matches.every(Boolean);
-  }).sort((a,b)=>query.sort==='name' ? a.municipio.localeCompare(b.municipio,'pt-BR') || (a.zona??0)-(b.zona??0) : query.sort==='asc' ? a.votos-b.votos || a.municipio.localeCompare(b.municipio,'pt-BR') : b.votos-a.votos || a.municipio.localeCompare(b.municipio,'pt-BR'));
+// Apenas seleções predefinidas. Valores desconhecidos voltam a opções válidas.
+export function normalizeQuery(input,municipios,zonas){
+ const source=input??{};
+ const view=source.view==='zonas'?'zonas':'municipios';
+ const municipio=municipios.some(r=>r.codigoMunicipio===source.municipio)?source.municipio:'';
+ const available=zonas.filter(r=>r.codigoMunicipio===municipio);
+ const zona=view==='zonas'&&municipio&&available.some(r=>String(r.zona)===String(source.zona))?String(source.zona):'';
+ return {view,municipio,zona,ranking:['3','10','20'].includes(String(source.ranking))?String(source.ranking):'all',sort:['asc','name'].includes(source.sort)?source.sort:'desc'};
+}
+export function zoneOptions(query,zonas){
+ return query.view==='zonas'&&query.municipio?zonas.filter(r=>r.codigoMunicipio===query.municipio).map(r=>r.zona).sort((a,b)=>a-b):[];
+}
+export function selectRows(municipios,zonas,input){
+ const query=normalizeQuery(input,municipios,zonas);
+ let rows=(query.view==='zonas'?zonas:municipios).filter(row=>(!query.municipio||row.codigoMunicipio===query.municipio)&&(!query.zona||String(row.zona)===query.zona));
+ const desc=(a,b)=>b.votos-a.votos||a.municipio.localeCompare(b.municipio,'pt-BR')||(a.zona??0)-(b.zona??0);
+ rows.sort(desc);
+ if(query.ranking!=='all')rows=rows.slice(0,Number(query.ranking));
+ if(query.sort==='asc')rows.sort((a,b)=>a.votos-b.votos||a.municipio.localeCompare(b.municipio,'pt-BR'));
+ if(query.sort==='name')rows.sort((a,b)=>a.municipio.localeCompare(b.municipio,'pt-BR')||(a.zona??0)-(b.zona??0));
+ return {query,rows};
 }
