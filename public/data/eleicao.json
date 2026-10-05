@@ -1,0 +1,19 @@
+{
+  "titulo": "Votos Bebeto Federal - 2026",
+  "nomeUrna": "Bebeto",
+  "nomeCivil": "Carlos Roberto Rodrigues",
+  "numero": "1133",
+  "partido": "PP",
+  "cargo": "Deputado federal",
+  "uf": "RJ",
+  "ano": 2026,
+  "turno": 1,
+  "dataEleicao": "2026-10-04",
+  "dataColeta": "2026-10-05",
+  "versao": "2026-10-05.1",
+  "totalVotos": 52761,
+  "idCandidato": "190002541063",
+  "resultadoEstadual": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0006-e006259-u.json",
+  "configuracao": "https://resultados.tse.jus.br/oficial/ele2026/6259/config/mun-e006259-cm.json",
+  "documentacao": "https://www.tse.jus.br/eleicoes/informacoes-tecnicas-sobre-a-divulgacao-de-resultados"
+}

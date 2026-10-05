@@ -1,0 +1,1283 @@
+[
+  {
+    "municipio": "São João De Meriti",
+    "codigoMunicipio": "59013",
+    "votos": 9429,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59013-z0089-c0006-e006259-u.json",
+    "zona": 89
+  },
+  {
+    "municipio": "São João De Meriti",
+    "codigoMunicipio": "59013",
+    "votos": 4977,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59013-z0187-c0006-e006259-u.json",
+    "zona": 187
+  },
+  {
+    "municipio": "São João De Meriti",
+    "codigoMunicipio": "59013",
+    "votos": 4804,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59013-z0186-c0006-e006259-u.json",
+    "zona": 186
+  },
+  {
+    "municipio": "São João De Meriti",
+    "codigoMunicipio": "59013",
+    "votos": 1507,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59013-z0088-c0006-e006259-u.json",
+    "zona": 88
+  },
+  {
+    "municipio": "São Fidélis",
+    "codigoMunicipio": "58955",
+    "votos": 1421,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58955-z0035-c0006-e006259-u.json",
+    "zona": 35
+  },
+  {
+    "municipio": "Itaperuna",
+    "codigoMunicipio": "58432",
+    "votos": 1252,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58432-z0107-c0006-e006259-u.json",
+    "zona": 107
+  },
+  {
+    "municipio": "Queimados",
+    "codigoMunicipio": "58122",
+    "votos": 1150,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58122-z0138-c0006-e006259-u.json",
+    "zona": 138
+  },
+  {
+    "municipio": "Belford Roxo",
+    "codigoMunicipio": "58041",
+    "votos": 1147,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58041-z0152-c0006-e006259-u.json",
+    "zona": 152
+  },
+  {
+    "municipio": "Casimiro De Abreu",
+    "codigoMunicipio": "58254",
+    "votos": 1050,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58254-z0050-c0006-e006259-u.json",
+    "zona": 50
+  },
+  {
+    "municipio": "Engenheiro Paulo De Frontin",
+    "codigoMunicipio": "58351",
+    "votos": 980,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58351-z0074-c0006-e006259-u.json",
+    "zona": 74
+  },
+  {
+    "municipio": "Sapucaia",
+    "codigoMunicipio": "59072",
+    "votos": 945,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59072-z0061-c0006-e006259-u.json",
+    "zona": 61
+  },
+  {
+    "municipio": "Teresópolis",
+    "codigoMunicipio": "59153",
+    "votos": 838,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59153-z0038-c0006-e006259-u.json",
+    "zona": 38
+  },
+  {
+    "municipio": "Guapimirim",
+    "codigoMunicipio": "58106",
+    "votos": 785,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58106-z0149-c0006-e006259-u.json",
+    "zona": 149
+  },
+  {
+    "municipio": "Teresópolis",
+    "codigoMunicipio": "59153",
+    "votos": 750,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59153-z0195-c0006-e006259-u.json",
+    "zona": 195
+  },
+  {
+    "municipio": "Belford Roxo",
+    "codigoMunicipio": "58041",
+    "votos": 710,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58041-z0155-c0006-e006259-u.json",
+    "zona": 155
+  },
+  {
+    "municipio": "Japeri",
+    "codigoMunicipio": "58149",
+    "votos": 703,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58149-z0139-c0006-e006259-u.json",
+    "zona": 139
+  },
+  {
+    "municipio": "Itaboraí",
+    "codigoMunicipio": "58378",
+    "votos": 671,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58378-z0104-c0006-e006259-u.json",
+    "zona": 104
+  },
+  {
+    "municipio": "Duque De Caxias",
+    "codigoMunicipio": "58335",
+    "votos": 632,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58335-z0079-c0006-e006259-u.json",
+    "zona": 79
+  },
+  {
+    "municipio": "Cachoeiras De Macacu",
+    "codigoMunicipio": "58157",
+    "votos": 623,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58157-z0049-c0006-e006259-u.json",
+    "zona": 49
+  },
+  {
+    "municipio": "São Pedro Da Aldeia",
+    "codigoMunicipio": "59030",
+    "votos": 559,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59030-z0059-c0006-e006259-u.json",
+    "zona": 59
+  },
+  {
+    "municipio": "Santo Antônio De Pádua",
+    "codigoMunicipio": "58939",
+    "votos": 537,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58939-z0034-c0006-e006259-u.json",
+    "zona": 34
+  },
+  {
+    "municipio": "Rio Das Ostras",
+    "codigoMunicipio": "58203",
+    "votos": 488,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58203-z0184-c0006-e006259-u.json",
+    "zona": 184
+  },
+  {
+    "municipio": "Carmo",
+    "codigoMunicipio": "58238",
+    "votos": 469,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58238-z0102-c0006-e006259-u.json",
+    "zona": 102
+  },
+  {
+    "municipio": "Três Rios",
+    "codigoMunicipio": "59196",
+    "votos": 412,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59196-z0174-c0006-e006259-u.json",
+    "zona": 174
+  },
+  {
+    "municipio": "Belford Roxo",
+    "codigoMunicipio": "58041",
+    "votos": 403,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58041-z0153-c0006-e006259-u.json",
+    "zona": 153
+  },
+  {
+    "municipio": "Petrópolis",
+    "codigoMunicipio": "58777",
+    "votos": 402,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58777-z0029-c0006-e006259-u.json",
+    "zona": 29
+  },
+  {
+    "municipio": "Nova Iguaçu",
+    "codigoMunicipio": "58696",
+    "votos": 399,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58696-z0157-c0006-e006259-u.json",
+    "zona": 157
+  },
+  {
+    "municipio": "Belford Roxo",
+    "codigoMunicipio": "58041",
+    "votos": 398,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58041-z0154-c0006-e006259-u.json",
+    "zona": 154
+  },
+  {
+    "municipio": "Iguaba Grande",
+    "codigoMunicipio": "58262",
+    "votos": 391,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58262-z0181-c0006-e006259-u.json",
+    "zona": 181
+  },
+  {
+    "municipio": "São José Do Vale Do Rio Preto",
+    "codigoMunicipio": "59331",
+    "votos": 369,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59331-z0196-c0006-e006259-u.json",
+    "zona": 196
+  },
+  {
+    "municipio": "Armação Dos Búzios",
+    "codigoMunicipio": "58408",
+    "votos": 361,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58408-z0172-c0006-e006259-u.json",
+    "zona": 172
+  },
+  {
+    "municipio": "Duque De Caxias",
+    "codigoMunicipio": "58335",
+    "votos": 354,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58335-z0103-c0006-e006259-u.json",
+    "zona": 103
+  },
+  {
+    "municipio": "Duque De Caxias",
+    "codigoMunicipio": "58335",
+    "votos": 333,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58335-z0126-c0006-e006259-u.json",
+    "zona": 126
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 320,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0170-c0006-e006259-u.json",
+    "zona": 170
+  },
+  {
+    "municipio": "Campos Dos Goytacazes",
+    "codigoMunicipio": "58190",
+    "votos": 308,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58190-z0076-c0006-e006259-u.json",
+    "zona": 76
+  },
+  {
+    "municipio": "Nova Iguaçu",
+    "codigoMunicipio": "58696",
+    "votos": 305,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58696-z0156-c0006-e006259-u.json",
+    "zona": 156
+  },
+  {
+    "municipio": "Aperibé",
+    "codigoMunicipio": "58181",
+    "votos": 299,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58181-z0034-c0006-e006259-u.json",
+    "zona": 34
+  },
+  {
+    "municipio": "Volta Redonda",
+    "codigoMunicipio": "59250",
+    "votos": 281,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59250-z0131-c0006-e006259-u.json",
+    "zona": 131
+  },
+  {
+    "municipio": "Araruama",
+    "codigoMunicipio": "58033",
+    "votos": 275,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58033-z0092-c0006-e006259-u.json",
+    "zona": 92
+  },
+  {
+    "municipio": "Duque De Caxias",
+    "codigoMunicipio": "58335",
+    "votos": 264,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58335-z0078-c0006-e006259-u.json",
+    "zona": 78
+  },
+  {
+    "municipio": "São Francisco De Itabapoana",
+    "codigoMunicipio": "58289",
+    "votos": 261,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58289-z0130-c0006-e006259-u.json",
+    "zona": 130
+  },
+  {
+    "municipio": "Itaboraí",
+    "codigoMunicipio": "58378",
+    "votos": 259,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58378-z0151-c0006-e006259-u.json",
+    "zona": 151
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 251,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0219-c0006-e006259-u.json",
+    "zona": 219
+  },
+  {
+    "municipio": "São Gonçalo",
+    "codigoMunicipio": "58971",
+    "votos": 243,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58971-z0132-c0006-e006259-u.json",
+    "zona": 132
+  },
+  {
+    "municipio": "Cabo Frio",
+    "codigoMunicipio": "58130",
+    "votos": 234,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58130-z0256-c0006-e006259-u.json",
+    "zona": 256
+  },
+  {
+    "municipio": "Nova Iguaçu",
+    "codigoMunicipio": "58696",
+    "votos": 224,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58696-z0158-c0006-e006259-u.json",
+    "zona": 158
+  },
+  {
+    "municipio": "São Gonçalo",
+    "codigoMunicipio": "58971",
+    "votos": 220,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58971-z0036-c0006-e006259-u.json",
+    "zona": 36
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 219,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0167-c0006-e006259-u.json",
+    "zona": 167
+  },
+  {
+    "municipio": "Nilópolis",
+    "codigoMunicipio": "58637",
+    "votos": 211,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58637-z0221-c0006-e006259-u.json",
+    "zona": 221
+  },
+  {
+    "municipio": "São Gonçalo",
+    "codigoMunicipio": "58971",
+    "votos": 203,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58971-z0133-c0006-e006259-u.json",
+    "zona": 133
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 196,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0022-c0006-e006259-u.json",
+    "zona": 22
+  },
+  {
+    "municipio": "Mendes",
+    "codigoMunicipio": "58556",
+    "votos": 184,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58556-z0056-c0006-e006259-u.json",
+    "zona": 56
+  },
+  {
+    "municipio": "São Gonçalo",
+    "codigoMunicipio": "58971",
+    "votos": 182,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58971-z0135-c0006-e006259-u.json",
+    "zona": 135
+  },
+  {
+    "municipio": "Piraí",
+    "codigoMunicipio": "58793",
+    "votos": 180,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58793-z0030-c0006-e006259-u.json",
+    "zona": 30
+  },
+  {
+    "municipio": "Nova Iguaçu",
+    "codigoMunicipio": "58696",
+    "votos": 179,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58696-z0084-c0006-e006259-u.json",
+    "zona": 84
+  },
+  {
+    "municipio": "Resende",
+    "codigoMunicipio": "58831",
+    "votos": 178,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58831-z0031-c0006-e006259-u.json",
+    "zona": 31
+  },
+  {
+    "municipio": "Cordeiro",
+    "codigoMunicipio": "58297",
+    "votos": 173,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58297-z0052-c0006-e006259-u.json",
+    "zona": 52
+  },
+  {
+    "municipio": "Valença",
+    "codigoMunicipio": "59218",
+    "votos": 167,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59218-z0111-c0006-e006259-u.json",
+    "zona": 111
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 160,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0122-c0006-e006259-u.json",
+    "zona": 122
+  },
+  {
+    "municipio": "Três Rios",
+    "codigoMunicipio": "59196",
+    "votos": 149,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59196-z0040-c0006-e006259-u.json",
+    "zona": 40
+  },
+  {
+    "municipio": "São Gonçalo",
+    "codigoMunicipio": "58971",
+    "votos": 148,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58971-z0087-c0006-e006259-u.json",
+    "zona": 87
+  },
+  {
+    "municipio": "Volta Redonda",
+    "codigoMunicipio": "59250",
+    "votos": 143,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59250-z0090-c0006-e006259-u.json",
+    "zona": 90
+  },
+  {
+    "municipio": "Magé",
+    "codigoMunicipio": "58491",
+    "votos": 141,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58491-z0110-c0006-e006259-u.json",
+    "zona": 110
+  },
+  {
+    "municipio": "Nilópolis",
+    "codigoMunicipio": "58637",
+    "votos": 141,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58637-z0201-c0006-e006259-u.json",
+    "zona": 201
+  },
+  {
+    "municipio": "Santa Maria Madalena",
+    "codigoMunicipio": "58912",
+    "votos": 139,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58912-z0060-c0006-e006259-u.json",
+    "zona": 60
+  },
+  {
+    "municipio": "Paraíba Do Sul",
+    "codigoMunicipio": "58734",
+    "votos": 137,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58734-z0028-c0006-e006259-u.json",
+    "zona": 28
+  },
+  {
+    "municipio": "Sumidouro",
+    "codigoMunicipio": "59137",
+    "votos": 132,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59137-z0064-c0006-e006259-u.json",
+    "zona": 64
+  },
+  {
+    "municipio": "Petrópolis",
+    "codigoMunicipio": "58777",
+    "votos": 129,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58777-z0065-c0006-e006259-u.json",
+    "zona": 65
+  },
+  {
+    "municipio": "Duque De Caxias",
+    "codigoMunicipio": "58335",
+    "votos": 128,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58335-z0128-c0006-e006259-u.json",
+    "zona": 128
+  },
+  {
+    "municipio": "Duque De Caxias",
+    "codigoMunicipio": "58335",
+    "votos": 127,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58335-z0200-c0006-e006259-u.json",
+    "zona": 200
+  },
+  {
+    "municipio": "Cabo Frio",
+    "codigoMunicipio": "58130",
+    "votos": 124,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58130-z0096-c0006-e006259-u.json",
+    "zona": 96
+  },
+  {
+    "municipio": "Campos Dos Goytacazes",
+    "codigoMunicipio": "58190",
+    "votos": 123,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58190-z0098-c0006-e006259-u.json",
+    "zona": 98
+  },
+  {
+    "municipio": "Duque De Caxias",
+    "codigoMunicipio": "58335",
+    "votos": 122,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58335-z0127-c0006-e006259-u.json",
+    "zona": 127
+  },
+  {
+    "municipio": "Bom Jesus Do Itabapoana",
+    "codigoMunicipio": "58114",
+    "votos": 116,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58114-z0095-c0006-e006259-u.json",
+    "zona": 95
+  },
+  {
+    "municipio": "Nova Friburgo",
+    "codigoMunicipio": "58670",
+    "votos": 110,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58670-z0222-c0006-e006259-u.json",
+    "zona": 222
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 107,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0176-c0006-e006259-u.json",
+    "zona": 176
+  },
+  {
+    "municipio": "Barra Do Piraí",
+    "codigoMunicipio": "58050",
+    "votos": 104,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58050-z0093-c0006-e006259-u.json",
+    "zona": 93
+  },
+  {
+    "municipio": "Macaé",
+    "codigoMunicipio": "58475",
+    "votos": 103,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58475-z0109-c0006-e006259-u.json",
+    "zona": 109
+  },
+  {
+    "municipio": "Macaé",
+    "codigoMunicipio": "58475",
+    "votos": 99,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58475-z0254-c0006-e006259-u.json",
+    "zona": 254
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 97,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0009-c0006-e006259-u.json",
+    "zona": 9
+  },
+  {
+    "municipio": "Campos Dos Goytacazes",
+    "codigoMunicipio": "58190",
+    "votos": 96,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58190-z0129-c0006-e006259-u.json",
+    "zona": 129
+  },
+  {
+    "municipio": "Angra Dos Reis",
+    "codigoMunicipio": "58017",
+    "votos": 92,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58017-z0116-c0006-e006259-u.json",
+    "zona": 116
+  },
+  {
+    "municipio": "São Gonçalo",
+    "codigoMunicipio": "58971",
+    "votos": 89,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58971-z0069-c0006-e006259-u.json",
+    "zona": 69
+  },
+  {
+    "municipio": "Nova Iguaçu",
+    "codigoMunicipio": "58696",
+    "votos": 88,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58696-z0027-c0006-e006259-u.json",
+    "zona": 27
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 87,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0120-c0006-e006259-u.json",
+    "zona": 120
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 87,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0218-c0006-e006259-u.json",
+    "zona": 218
+  },
+  {
+    "municipio": "Itaguaí",
+    "codigoMunicipio": "58394",
+    "votos": 81,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58394-z0105-c0006-e006259-u.json",
+    "zona": 105
+  },
+  {
+    "municipio": "Nova Iguaçu",
+    "codigoMunicipio": "58696",
+    "votos": 81,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58696-z0159-c0006-e006259-u.json",
+    "zona": 159
+  },
+  {
+    "municipio": "Cambuci",
+    "codigoMunicipio": "58173",
+    "votos": 79,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58173-z0097-c0006-e006259-u.json",
+    "zona": 97
+  },
+  {
+    "municipio": "Maricá",
+    "codigoMunicipio": "58530",
+    "votos": 79,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58530-z0055-c0006-e006259-u.json",
+    "zona": 55
+  },
+  {
+    "municipio": "Trajano De Moraes",
+    "codigoMunicipio": "59170",
+    "votos": 79,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59170-z0051-c0006-e006259-u.json",
+    "zona": 51
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 78,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0188-c0006-e006259-u.json",
+    "zona": 188
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 77,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0123-c0006-e006259-u.json",
+    "zona": 123
+  },
+  {
+    "municipio": "Campos Dos Goytacazes",
+    "codigoMunicipio": "58190",
+    "votos": 76,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58190-z0075-c0006-e006259-u.json",
+    "zona": 75
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 76,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0162-c0006-e006259-u.json",
+    "zona": 162
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 76,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0238-c0006-e006259-u.json",
+    "zona": 238
+  },
+  {
+    "municipio": "Mesquita",
+    "codigoMunicipio": "58467",
+    "votos": 75,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58467-z0083-c0006-e006259-u.json",
+    "zona": 83
+  },
+  {
+    "municipio": "Angra Dos Reis",
+    "codigoMunicipio": "58017",
+    "votos": 73,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58017-z0147-c0006-e006259-u.json",
+    "zona": 147
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 71,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0245-c0006-e006259-u.json",
+    "zona": 245
+  },
+  {
+    "municipio": "São Gonçalo",
+    "codigoMunicipio": "58971",
+    "votos": 69,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58971-z0068-c0006-e006259-u.json",
+    "zona": 68
+  },
+  {
+    "municipio": "Seropédica",
+    "codigoMunicipio": "58424",
+    "votos": 63,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58424-z0225-c0006-e006259-u.json",
+    "zona": 225
+  },
+  {
+    "municipio": "Mangaratiba",
+    "codigoMunicipio": "58513",
+    "votos": 59,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58513-z0054-c0006-e006259-u.json",
+    "zona": 54
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 59,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0024-c0006-e006259-u.json",
+    "zona": 24
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 57,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0214-c0006-e006259-u.json",
+    "zona": 214
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 54,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0014-c0006-e006259-u.json",
+    "zona": 14
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 54,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0023-c0006-e006259-u.json",
+    "zona": 23
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 53,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0118-c0006-e006259-u.json",
+    "zona": 118
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 53,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0204-c0006-e006259-u.json",
+    "zona": 204
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 52,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0233-c0006-e006259-u.json",
+    "zona": 233
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 51,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0010-c0006-e006259-u.json",
+    "zona": 10
+  },
+  {
+    "municipio": "Saquarema",
+    "codigoMunicipio": "59099",
+    "votos": 50,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59099-z0062-c0006-e006259-u.json",
+    "zona": 62
+  },
+  {
+    "municipio": "Niterói",
+    "codigoMunicipio": "58653",
+    "votos": 49,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58653-z0199-c0006-e006259-u.json",
+    "zona": 199
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 48,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0234-c0006-e006259-u.json",
+    "zona": 234
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 47,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0119-c0006-e006259-u.json",
+    "zona": 119
+  },
+  {
+    "municipio": "Mesquita",
+    "codigoMunicipio": "58467",
+    "votos": 45,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58467-z0150-c0006-e006259-u.json",
+    "zona": 150
+  },
+  {
+    "municipio": "Niterói",
+    "codigoMunicipio": "58653",
+    "votos": 45,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58653-z0144-c0006-e006259-u.json",
+    "zona": 144
+  },
+  {
+    "municipio": "Nova Friburgo",
+    "codigoMunicipio": "58670",
+    "votos": 45,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58670-z0026-c0006-e006259-u.json",
+    "zona": 26
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 45,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0182-c0006-e006259-u.json",
+    "zona": 182
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 45,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0246-c0006-e006259-u.json",
+    "zona": 246
+  },
+  {
+    "municipio": "Varre-Sai",
+    "codigoMunicipio": "58084",
+    "votos": 44,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58084-z0043-c0006-e006259-u.json",
+    "zona": 43
+  },
+  {
+    "municipio": "Barra Mansa",
+    "codigoMunicipio": "58076",
+    "votos": 43,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58076-z0091-c0006-e006259-u.json",
+    "zona": 91
+  },
+  {
+    "municipio": "Magé",
+    "codigoMunicipio": "58491",
+    "votos": 43,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58491-z0148-c0006-e006259-u.json",
+    "zona": 148
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 43,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0242-c0006-e006259-u.json",
+    "zona": 242
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 41,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0179-c0006-e006259-u.json",
+    "zona": 179
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 40,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0021-c0006-e006259-u.json",
+    "zona": 21
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 40,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0169-c0006-e006259-u.json",
+    "zona": 169
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 39,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0008-c0006-e006259-u.json",
+    "zona": 8
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 39,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0180-c0006-e006259-u.json",
+    "zona": 180
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 37,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0229-c0006-e006259-u.json",
+    "zona": 229
+  },
+  {
+    "municipio": "Miracema",
+    "codigoMunicipio": "58599",
+    "votos": 36,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58599-z0112-c0006-e006259-u.json",
+    "zona": 112
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 34,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0161-c0006-e006259-u.json",
+    "zona": 161
+  },
+  {
+    "municipio": "Arraial Do Cabo",
+    "codigoMunicipio": "59277",
+    "votos": 33,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59277-z0146-c0006-e006259-u.json",
+    "zona": 146
+  },
+  {
+    "municipio": "Niterói",
+    "codigoMunicipio": "58653",
+    "votos": 33,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58653-z0072-c0006-e006259-u.json",
+    "zona": 72
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 33,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0125-c0006-e006259-u.json",
+    "zona": 125
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 33,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0192-c0006-e006259-u.json",
+    "zona": 192
+  },
+  {
+    "municipio": "Niterói",
+    "codigoMunicipio": "58653",
+    "votos": 32,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58653-z0071-c0006-e006259-u.json",
+    "zona": 71
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 32,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0185-c0006-e006259-u.json",
+    "zona": 185
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 31,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0007-c0006-e006259-u.json",
+    "zona": 7
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 31,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0191-c0006-e006259-u.json",
+    "zona": 191
+  },
+  {
+    "municipio": "Resende",
+    "codigoMunicipio": "58831",
+    "votos": 30,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58831-z0198-c0006-e006259-u.json",
+    "zona": 198
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 29,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0216-c0006-e006259-u.json",
+    "zona": 216
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 28,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0016-c0006-e006259-u.json",
+    "zona": 16
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 27,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0230-c0006-e006259-u.json",
+    "zona": 230
+  },
+  {
+    "municipio": "Itaocara",
+    "codigoMunicipio": "58416",
+    "votos": 26,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58416-z0106-c0006-e006259-u.json",
+    "zona": 106
+  },
+  {
+    "municipio": "Paracambi",
+    "codigoMunicipio": "58718",
+    "votos": 26,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58718-z0070-c0006-e006259-u.json",
+    "zona": 70
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 25,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0241-c0006-e006259-u.json",
+    "zona": 241
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 25,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0243-c0006-e006259-u.json",
+    "zona": 243
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 23,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0025-c0006-e006259-u.json",
+    "zona": 25
+  },
+  {
+    "municipio": "Cantagalo",
+    "codigoMunicipio": "58211",
+    "votos": 22,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58211-z0101-c0006-e006259-u.json",
+    "zona": 101
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 21,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0005-c0006-e006259-u.json",
+    "zona": 5
+  },
+  {
+    "municipio": "São Sebastião Do Alto",
+    "codigoMunicipio": "59056",
+    "votos": 21,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59056-z0060-c0006-e006259-u.json",
+    "zona": 60
+  },
+  {
+    "municipio": "Miguel Pereira",
+    "codigoMunicipio": "58572",
+    "votos": 19,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58572-z0048-c0006-e006259-u.json",
+    "zona": 48
+  },
+  {
+    "municipio": "Silva Jardim",
+    "codigoMunicipio": "59110",
+    "votos": 19,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59110-z0063-c0006-e006259-u.json",
+    "zona": 63
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 18,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0004-c0006-e006259-u.json",
+    "zona": 4
+  },
+  {
+    "municipio": "Tanguá",
+    "codigoMunicipio": "58360",
+    "votos": 17,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58360-z0151-c0006-e006259-u.json",
+    "zona": 151
+  },
+  {
+    "municipio": "Itatiaia",
+    "codigoMunicipio": "58440",
+    "votos": 16,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58440-z0198-c0006-e006259-u.json",
+    "zona": 198
+  },
+  {
+    "municipio": "Paty Do Alferes",
+    "codigoMunicipio": "59315",
+    "votos": 15,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59315-z0048-c0006-e006259-u.json",
+    "zona": 48
+  },
+  {
+    "municipio": "Barra Mansa",
+    "codigoMunicipio": "58076",
+    "votos": 14,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58076-z0094-c0006-e006259-u.json",
+    "zona": 94
+  },
+  {
+    "municipio": "Natividade",
+    "codigoMunicipio": "58610",
+    "votos": 14,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58610-z0043-c0006-e006259-u.json",
+    "zona": 43
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 13,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0211-c0006-e006259-u.json",
+    "zona": 211
+  },
+  {
+    "municipio": "Cardoso Moreira",
+    "codigoMunicipio": "58068",
+    "votos": 12,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58068-z0141-c0006-e006259-u.json",
+    "zona": 141
+  },
+  {
+    "municipio": "Rio De Janeiro",
+    "codigoMunicipio": "60011",
+    "votos": 12,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj60011-z0017-c0006-e006259-u.json",
+    "zona": 17
+  },
+  {
+    "municipio": "Comendador Levy Gasparian",
+    "codigoMunicipio": "58165",
+    "votos": 11,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58165-z0040-c0006-e006259-u.json",
+    "zona": 40
+  },
+  {
+    "municipio": "São João Da Barra",
+    "codigoMunicipio": "58998",
+    "votos": 11,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58998-z0037-c0006-e006259-u.json",
+    "zona": 37
+  },
+  {
+    "municipio": "Rio Das Flores",
+    "codigoMunicipio": "58890",
+    "votos": 10,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58890-z0111-c0006-e006259-u.json",
+    "zona": 111
+  },
+  {
+    "municipio": "Vassouras",
+    "codigoMunicipio": "59234",
+    "votos": 10,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59234-z0041-c0006-e006259-u.json",
+    "zona": 41
+  },
+  {
+    "municipio": "Quissamã",
+    "codigoMunicipio": "58009",
+    "votos": 9,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58009-z0255-c0006-e006259-u.json",
+    "zona": 255
+  },
+  {
+    "municipio": "Rio Bonito",
+    "codigoMunicipio": "58858",
+    "votos": 8,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58858-z0032-c0006-e006259-u.json",
+    "zona": 32
+  },
+  {
+    "municipio": "São José De Ubá",
+    "codigoMunicipio": "58343",
+    "votos": 8,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58343-z0107-c0006-e006259-u.json",
+    "zona": 107
+  },
+  {
+    "municipio": "Porciúncula",
+    "codigoMunicipio": "58815",
+    "votos": 7,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58815-z0045-c0006-e006259-u.json",
+    "zona": 45
+  },
+  {
+    "municipio": "Laje Do Muriaé",
+    "codigoMunicipio": "58459",
+    "votos": 6,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58459-z0112-c0006-e006259-u.json",
+    "zona": 112
+  },
+  {
+    "municipio": "Macuco",
+    "codigoMunicipio": "58386",
+    "votos": 6,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58386-z0052-c0006-e006259-u.json",
+    "zona": 52
+  },
+  {
+    "municipio": "Conceição De Macabu",
+    "codigoMunicipio": "58270",
+    "votos": 5,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58270-z0051-c0006-e006259-u.json",
+    "zona": 51
+  },
+  {
+    "municipio": "Duas Barras",
+    "codigoMunicipio": "58319",
+    "votos": 5,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58319-z0042-c0006-e006259-u.json",
+    "zona": 42
+  },
+  {
+    "municipio": "Paraty",
+    "codigoMunicipio": "58750",
+    "votos": 5,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58750-z0057-c0006-e006259-u.json",
+    "zona": 57
+  },
+  {
+    "municipio": "Pinheiral",
+    "codigoMunicipio": "58246",
+    "votos": 5,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58246-z0030-c0006-e006259-u.json",
+    "zona": 30
+  },
+  {
+    "municipio": "Carapebus",
+    "codigoMunicipio": "58300",
+    "votos": 4,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58300-z0255-c0006-e006259-u.json",
+    "zona": 255
+  },
+  {
+    "municipio": "Rio Claro",
+    "codigoMunicipio": "58874",
+    "votos": 4,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58874-z0108-c0006-e006259-u.json",
+    "zona": 108
+  },
+  {
+    "municipio": "Areal",
+    "codigoMunicipio": "58220",
+    "votos": 3,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58220-z0174-c0006-e006259-u.json",
+    "zona": 174
+  },
+  {
+    "municipio": "Bom Jardim",
+    "codigoMunicipio": "58092",
+    "votos": 3,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58092-z0042-c0006-e006259-u.json",
+    "zona": 42
+  },
+  {
+    "municipio": "Porto Real",
+    "codigoMunicipio": "58327",
+    "votos": 2,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58327-z0183-c0006-e006259-u.json",
+    "zona": 183
+  },
+  {
+    "municipio": "Quatis",
+    "codigoMunicipio": "58025",
+    "votos": 2,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58025-z0183-c0006-e006259-u.json",
+    "zona": 183
+  },
+  {
+    "municipio": "Italva",
+    "codigoMunicipio": "59293",
+    "votos": 1,
+    "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59293-z0141-c0006-e006259-u.json",
+    "zona": 141
+  }
+]

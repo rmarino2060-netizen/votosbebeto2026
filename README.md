@@ -35,6 +35,8 @@ Acesse http://localhost:8080. Para regenerar o PDF completo após mudar os dados
 
 ## Publicação na sua conta Cloudflare Pages
 
+Antes da publicação, revise o site em celular e computador. A validação desta primeira versão incluiu testes automatizados de dados e filtros, build, análise de sintaxe JavaScript e revisão visual das 16 páginas do PDF completo. O teste de navegação/renderização no navegador ficou pendente porque o ambiente de construção bloqueou a prévia e não disponibilizou um navegador local funcional. Não tratar esta versão como homologada visualmente antes dessa revisão.
+
 Crie um projeto **Pages** com integração Git e selecione este repositório. Configuração:
 
 | Campo | Valor |
